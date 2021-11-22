@@ -61,19 +61,26 @@ It was either a charter or a district school. Charter schools, unsurprisingly, o
 
 -Scores by school spending changed from $601-650:
 
-  .The percentage of students passing math has decreased from 73 percent to 67 percent.
+   .The percentage of students passing math has decreased from 73 percent to 67 percent.
   
-  .The percentage of those who passed their readings declined from 84 percent to 77 percent.
+   .The percentage of those who passed their readings declined from 84 percent to 77 percent.
   
-  .The overall passing rate fell from 63 percent to 56 percent.
+   .The overall passing rate fell from 63 percent to 56 percent.
   
 -For medium-sized schools (1000-2000 students), the following scores have changed:
-+The percentage of students passing math has decreased from 94 percent to 85 percent.
-+The percentage of those who passed their readings declined from 97 percent to 91 percent.
-+The overall passing rate fell from 91 percent to 85 percent.
+
+  .The percentage of students passing math has decreased from 94 percent to 85 percent.
+  
+  .The percentage of those who passed their readings declined from 97 percent to 91 percent.
+  
+  .The overall passing rate fell from 91 percent to 85 percent.
+  
 -The following factors impacted the scores of different types of schools:
-+The percentage of students passing math has declined from 94% to 90%.
-+The percentage of those who passed their readings declined from 97 percent to 93 percent.
-+The overall passing rate declined from 90% to 87 percent.
-h
+
+  .The percentage of students passing math has declined from 94% to 90%.
+  
+  .The percentage of those who passed their readings declined from 97 percent to 93 percent.
+  
+  .The overall passing rate declined from 90% to 87 percent.
+
 
