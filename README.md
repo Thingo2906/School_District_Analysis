@@ -58,10 +58,12 @@ It was either a charter or a district school. Charter schools, unsurprisingly, o
 
 ### Other reports were impacted by the removal of 9th grade student scores from Thomas High School:
 -For all other schools, math and reading results by grade stayed unchanged.
+
 -Scores by school spending changed from $601-650:
   .The percentage of students passing math has decreased from 73 percent to 67 percent.
   .The percentage of those who passed their readings declined from 84 percent to 77 percent.
   .The overall passing rate fell from 63 percent to 56 percent.
+  
 -For medium-sized schools (1000-2000 students), the following scores have changed:
 +The percentage of students passing math has decreased from 94 percent to 85 percent.
 +The percentage of those who passed their readings declined from 97 percent to 91 percent.
