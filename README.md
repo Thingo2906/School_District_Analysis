@@ -59,5 +59,5 @@ It was either a charter or a district school. Charter schools, unsurprisingly, o
 +The percentage of students passing math has declined from 94% to 90%.
 +The percentage of those who passed their readings declined from 97 percent to 93 percent.
 +The overall passing rate declined from 90% to 87 percent.
-
+h
 
