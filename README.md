@@ -10,15 +10,18 @@
 - Percent Passing Reading moved from 86% to 85%.
 - Percent Overall Passing moved from 65% to 64%.
 <img width="1139" alt="333333" src="https://user-images.githubusercontent.com/93515126/142798311-db100507-028a-4a83-945b-6fb2d5a97508.png">
+
 ### How is the school summary affected?
 - Average Math at Thomas decreased from 83.42 to 83.35.
 - Average Reading at Thomas slightly increased from 83.84 to 83.89.
 - Average Percent Passing Math at Thomas greatly decreased from 93.3% to 66.9%.
 - Percent Passing Reading at Thomas decreases from 97.3% to 69.7%.
 - Average Percent Overall passing both Math and Reading decreased from 90.9% to 65.1%.
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Thomas High School Scores
 Nineth students at Thomas High School had their math and reading scores substituted with 'NaN' (Not a Number) so that their grades would not impact future computations. If all of the students' grades were substituted with a 'O,' this would have a detrimental influence on the school's and district's averages.
+
 #### Thomas High School math scores:
 Ninth grade math scores were replaced with NaN. Thomas High School 10th, 11th, and 12th grade math scores are as follows: 83.1, 83.5, and 83.5.
 <img width="365" alt="WDWARFSE" src="https://user-images.githubusercontent.com/93515126/142800290-7e96ca03-772e-4c0b-936c-27fb3e71fd3e.png">
