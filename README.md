@@ -35,22 +35,22 @@ Scores by school size were calculated by determining size ranges for all 15 scho
 It was either a charter or a district school. Charter schools, unsurprisingly, outperformed district schools.
 <img width="656" alt="GFXCXFGFGHGJ" src="https://user-images.githubusercontent.com/93515126/142801620-7d9a5a8d-a1f1-4093-a320-e674dc40b8da.png">
 ## Summary
-*The removal of 9th grade student scores from Thomas High School has the following effects on the school district:
+### The removal of 9th grade student scores from Thomas High School has the following effects on the school district:
 -Average math scores have decreased a smidgeon (1%).
 -The average reading score was unaffected.
 -The percentage of students who passed arithmetic has decreased somewhat (-1 percent )
 -The percentage of students who passed reading has decreased somewhat (-1 percent )
 -The overall pass rate has decreased (-1 percent )
-*Only Thomas High School's grades were affected:
-The percentage of students passing math classes has decreased from 93.2 percent to 66.9%.
-The percentage of students who passed reading decreased from 97.3 percent to 69.7%.
-The overall pass rate dropped from 90.9 percent to 65.1 percent.)
-*Other reports were impacted by the removal of 9th grade student scores from Thomas High School:
+### Only Thomas High School's grades were affected:
+-The percentage of students passing math classes has decreased from 93.2 percent to 66.9%.
+-The percentage of students who passed reading decreased from 97.3 percent to 69.7%.
+-The overall pass rate dropped from 90.9 percent to 65.1 percent.)
+### Other reports were impacted by the removal of 9th grade student scores from Thomas High School:
 -For all other schools, math and reading results by grade stayed unchanged.
 -Scores by school spending changed from $601-650:
-+The percentage of students passing math has decreased from 73 percent to 67 percent.
-+The percentage of those who passed their readings declined from 84 percent to 77 percent.
-+The overall passing rate fell from 63 percent to 56 percent.
+  .The percentage of students passing math has decreased from 73 percent to 67 percent.
+  .The percentage of those who passed their readings declined from 84 percent to 77 percent.
+  .The overall passing rate fell from 63 percent to 56 percent.
 -For medium-sized schools (1000-2000 students), the following scores have changed:
 +The percentage of students passing math has decreased from 94 percent to 85 percent.
 +The percentage of those who passed their readings declined from 97 percent to 91 percent.
